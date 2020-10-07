@@ -61,7 +61,7 @@ class MemeGenerator extends Component {
             placeholder="bottom text"
             autoComplete="off"
           />
-          <button onClick={this.generateRandomImg}>Gen</button>
+          <button onClick={this.generateRandomImg}>Generate</button>
         </form>
         <div className="meme">
           <img className="memeimage" src={this.state.randomImg} alt="" />
