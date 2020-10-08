@@ -2,7 +2,9 @@
 
 ## Technology Used:
 
-    1. React
+    1. HTML
+    2. CSS
+    3. React
 
 ## How to Run
 
